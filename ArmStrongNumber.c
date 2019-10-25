@@ -1,6 +1,6 @@
 /* Armstrong Number */
 #include<stdio.h>
-
+//alok
 int main()
 {
     int i, temp, n, digit, sum=0;
